@@ -1,0 +1,1 @@
+CloudNote syncs your notes across devices every five minutes. You can force a sync by pulling down on the note list. Sync requires an internet connection; offline edits are queued and uploaded when you reconnect. Conflicting edits on two devices create a conflict copy named with the device and time.

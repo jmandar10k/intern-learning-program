@@ -1,0 +1,1 @@
+CloudNote encrypts notes in transit and at rest. Two-step verification can be enabled under Account and Security. Support staff will never ask for your password. If you lose access to your two-step device, use one of the ten backup codes generated at setup.

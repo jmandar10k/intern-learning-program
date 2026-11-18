@@ -1,0 +1,32 @@
+[
+  {
+    "id": "D1",
+    "title": "Quarterly volunteer report",
+    "body": "Volunteers logged 1,240 hours this quarter. Contact the coordinator at maria.lopez@example.org for the full schedule. Attendance rose in all three community centres."
+  },
+  {
+    "id": "D2",
+    "title": "Library opening hours",
+    "body": "The main library opens at 9:00 and closes at 20:00 on weekdays. Weekend hours are 10:00 to 16:00. The reading room is closed on public holidays."
+  },
+  {
+    "id": "D3",
+    "title": "",
+    "body": "Untitled scan with no readable content."
+  },
+  {
+    "id": "D4",
+    "title": "Park cleanup sign-up",
+    "body": "Join the park cleanup on Saturday morning. Questions can go to j.chen@example.net or to the front desk. Gloves and bags are provided."
+  },
+  {
+    "id": "D5",
+    "title": "Pool maintenance notice",
+    "body": ""
+  },
+  {
+    "id": "D6",
+    "title": "Community garden rules",
+    "body": "Each plot holder waters their own plot. Shared tools are returned to the shed by 19:00. Report broken tools to garden.team@example.com."
+  }
+]

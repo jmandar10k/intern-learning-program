@@ -1,0 +1,177 @@
+[
+  {
+    "id": "Q01",
+    "question": "How long is a guest Wi-Fi code valid?",
+    "relevant": [
+      "wifi.md"
+    ],
+    "answerable": true,
+    "answer_contains": "24 hours"
+  },
+  {
+    "id": "Q02",
+    "question": "Do I need the VPN to read my email from home?",
+    "relevant": [
+      "vpn.md"
+    ],
+    "answerable": true,
+    "answer_contains": "not needed for email"
+  },
+  {
+    "id": "Q03",
+    "question": "How often do university passwords expire?",
+    "relevant": [
+      "password.md"
+    ],
+    "answerable": true,
+    "answer_contains": "every 180 days"
+  },
+  {
+    "id": "Q04",
+    "question": "What happens after five failed sign-in attempts?",
+    "relevant": [
+      "password.md"
+    ],
+    "answerable": true,
+    "answer_contains": "locked for 15 minutes"
+  },
+  {
+    "id": "Q05",
+    "question": "What should I do before wiping my old phone with the authenticator app?",
+    "relevant": [
+      "mfa.md"
+    ],
+    "answerable": true,
+    "answer_contains": "register the new device"
+  },
+  {
+    "id": "Q06",
+    "question": "What is the mailbox quota for students?",
+    "relevant": [
+      "email.md"
+    ],
+    "answerable": true,
+    "answer_contains": "50 GB"
+  },
+  {
+    "id": "Q07",
+    "question": "Can I automatically forward my university email to an external address?",
+    "relevant": [
+      "email.md"
+    ],
+    "answerable": true,
+    "answer_contains": "forwarding to external addresses is blocked"
+  },
+  {
+    "id": "Q08",
+    "question": "How much does a colour page cost to print?",
+    "relevant": [
+      "printing.md"
+    ],
+    "answerable": true,
+    "answer_contains": "20 cents"
+  },
+  {
+    "id": "Q09",
+    "question": "On how many personal devices can I install licensed software?",
+    "relevant": [
+      "software.md"
+    ],
+    "answerable": true,
+    "answer_contains": "five personal devices"
+  },
+  {
+    "id": "Q10",
+    "question": "What is the fee for returning a loan laptop late?",
+    "relevant": [
+      "laptop-loans.md"
+    ],
+    "answerable": true,
+    "answer_contains": "5 dollars per day"
+  },
+  {
+    "id": "Q11",
+    "question": "I typed my password into a suspicious website. What should I do?",
+    "relevant": [
+      "phishing.md"
+    ],
+    "answerable": true,
+    "answer_contains": "reset it immediately"
+  },
+  {
+    "id": "Q12",
+    "question": "How long do deleted files stay in the cloud storage recycle bin?",
+    "relevant": [
+      "storage.md"
+    ],
+    "answerable": true,
+    "answer_contains": "93 days"
+  },
+  {
+    "id": "Q13",
+    "question": "Where must research data with personal information be stored?",
+    "relevant": [
+      "storage.md"
+    ],
+    "answerable": true,
+    "answer_contains": "approved research storage service"
+  },
+  {
+    "id": "Q14",
+    "question": "How long does a guest account last?",
+    "relevant": [
+      "guest-accounts.md"
+    ],
+    "answerable": true,
+    "answer_contains": "90 days"
+  },
+  {
+    "id": "Q15",
+    "question": "When are computer labs open on weekends?",
+    "relevant": [
+      "labs.md"
+    ],
+    "answerable": true,
+    "answer_contains": "10:00 to 18:00 on weekends"
+  },
+  {
+    "id": "Q16",
+    "question": "Are personal laptops backed up by IT?",
+    "relevant": [
+      "backup.md"
+    ],
+    "answerable": true,
+    "answer_contains": "not backed up by IT"
+  },
+  {
+    "id": "Q17",
+    "question": "Can I get a loan laptop with assistive software for a whole semester?",
+    "relevant": [
+      "accessibility.md",
+      "laptop-loans.md"
+    ],
+    "answerable": true,
+    "answer_contains": "for a full semester"
+  },
+  {
+    "id": "Q18",
+    "question": "Which parking permit do I need for the north car park?",
+    "relevant": [],
+    "answerable": false,
+    "answer_contains": ""
+  },
+  {
+    "id": "Q19",
+    "question": "How do I change my exam timetable?",
+    "relevant": [],
+    "answerable": false,
+    "answer_contains": ""
+  },
+  {
+    "id": "Q20",
+    "question": "What is the cafeteria menu on Friday?",
+    "relevant": [],
+    "answerable": false,
+    "answer_contains": ""
+  }
+]

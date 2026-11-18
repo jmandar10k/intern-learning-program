@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How often does CloudNote sync notes across devices?",
+    "relevant": "sync.md",
+    "answer_contains": "every five minutes"
+  },
+  {
+    "question": "How many collaborators can share a notebook on the Free plan?",
+    "relevant": "sharing.md",
+    "answer_contains": "3 on the Free plan"
+  },
+  {
+    "question": "Which attachments are excluded from exports?",
+    "relevant": "export.md",
+    "answer_contains": "larger than 50 MB"
+  },
+  {
+    "question": "How much storage does the Free plan include?",
+    "relevant": "storage.md",
+    "answer_contains": "2 GB"
+  },
+  {
+    "question": "When is the trash emptied automatically?",
+    "relevant": "storage.md",
+    "answer_contains": "after 30 days"
+  },
+  {
+    "question": "What do I use if I lose access to my two-step device?",
+    "relevant": "security.md",
+    "answer_contains": "backup codes"
+  },
+  {
+    "question": "How much does the Team plan cost per user when billed monthly?",
+    "relevant": "billing.md",
+    "answer_contains": "10 dollars"
+  },
+  {
+    "question": "Are refunds issued for partial months?",
+    "relevant": "billing.md",
+    "answer_contains": "not issued for partial months"
+  },
+  {
+    "question": "Is text inside scanned PDFs searchable?",
+    "relevant": "search.md",
+    "answer_contains": "optical character recognition"
+  },
+  {
+    "question": "Which notebooks are stored on the device on mobile offline?",
+    "relevant": "offline.md",
+    "answer_contains": "Available offline"
+  }
+]

@@ -1,0 +1,1 @@
+Search looks inside note text, titles and tags. Text inside images and scanned PDFs is searchable on the Team plan through optical character recognition. Use quotes to search for an exact phrase. Search results are ranked by relevance and then by last edited date.

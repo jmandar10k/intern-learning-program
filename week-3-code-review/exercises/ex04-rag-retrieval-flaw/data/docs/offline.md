@@ -1,0 +1,1 @@
+Offline mode lets you read and edit notes without a connection. On mobile, only notebooks marked Available offline are stored on the device. Desktop apps keep all notebooks offline by default. Offline changes sync automatically when the connection returns.

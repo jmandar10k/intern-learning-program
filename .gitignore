@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+week-1-foundations/02-data-analysis-viz/exercises/plots/
+week-4-assessment/mentor-only/reference-solutions/task1_output/

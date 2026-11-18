@@ -1,0 +1,44 @@
+[
+  {
+    "id": "R1",
+    "product": "TrailLite backpack",
+    "text": "The shoulder strap snapped after two weeks of light use. Very disappointed with the quality.",
+    "expected_sentiment": "negative",
+    "expected_topic": "strap"
+  },
+  {
+    "id": "R2",
+    "product": "AquaPure bottle",
+    "text": "Keeps water cold all day and the lid never leaks. Great purchase.",
+    "expected_sentiment": "positive",
+    "expected_topic": "lid"
+  },
+  {
+    "id": "R3",
+    "product": "SnugFit gloves",
+    "text": "The gloves run two sizes small and the stitching came loose on the thumb.",
+    "expected_sentiment": "negative",
+    "expected_topic": "stitching"
+  },
+  {
+    "id": "R4",
+    "product": "BrightBeam headlamp",
+    "text": "Battery lasts for three nights of camping and the beam is great. Love it.",
+    "expected_sentiment": "positive",
+    "expected_topic": "battery"
+  },
+  {
+    "id": "R5",
+    "product": "CampEase stove",
+    "text": "The ignition button stopped working on the second trip and support never answered.",
+    "expected_sentiment": "negative",
+    "expected_topic": "ignition"
+  },
+  {
+    "id": "R6",
+    "product": "DryPack cover",
+    "text": "Fits my pack well and kept everything dry in heavy rain. Excellent value.",
+    "expected_sentiment": "positive",
+    "expected_topic": "rain"
+  }
+]

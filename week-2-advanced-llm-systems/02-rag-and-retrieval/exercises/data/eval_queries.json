@@ -1,0 +1,14 @@
+[
+  {"question": "Is there a fee if I cancel after the courier is assigned?", "relevant": "cancellations.md"},
+  {"question": "How much credit do I get when my delivery is very late?", "relevant": "late-deliveries.md"},
+  {"question": "How many business days until a refund for missing items arrives?", "relevant": "refunds.md"},
+  {"question": "When is the delivery fee free?", "relevant": "delivery-zones.md"},
+  {"question": "Until when can I change my delivery slot?", "relevant": "slots.md"},
+  {"question": "Can I reject a substituted item at the door?", "relevant": "substitutions.md"},
+  {"question": "Will staff ever ask for my password?", "relevant": "account-security.md"},
+  {"question": "How many orders can a courier handle per hour?", "relevant": "couriers.md"},
+  {"question": "Does the late credit apply during storm warnings?", "relevant": "late-deliveries.md"},
+  {"question": "Which refunds need a review by support?", "relevant": "refunds.md"},
+  {"question": "Is express delivery available for large baskets?", "relevant": "slots.md"},
+  {"question": "Do you deliver outside the city zones?", "relevant": "delivery-zones.md"}
+]

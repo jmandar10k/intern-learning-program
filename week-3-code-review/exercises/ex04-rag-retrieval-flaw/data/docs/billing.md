@@ -1,0 +1,1 @@
+The Team plan costs 8 dollars per user per month when billed annually and 10 dollars when billed monthly. Invoices are sent to the billing email on the first day of each period. You can cancel at any time; access continues until the end of the paid period. Refunds are not issued for partial months.

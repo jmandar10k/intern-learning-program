@@ -1,0 +1,1 @@
+Notes can be exported as PDF, Markdown or HTML. Bulk export of a whole notebook is available on the Team plan only. Attachments larger than 50 MB are excluded from exports. Exported files keep the note title as the file name.

@@ -1,0 +1,1 @@
+The Free plan includes 2 GB of storage and the Team plan includes 100 GB per user. Files in the trash still count toward storage until the trash is emptied. The trash is emptied automatically after 30 days. Large videos are the most common reason for running out of storage.

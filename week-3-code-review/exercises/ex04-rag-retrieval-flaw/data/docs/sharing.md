@@ -1,0 +1,1 @@
+You can share a notebook with up to 25 collaborators on the Team plan and up to 3 on the Free plan. Collaborators can have view or edit access. Shared links can be protected with a password and set to expire after 7, 30 or 90 days. Removing a collaborator takes effect immediately.

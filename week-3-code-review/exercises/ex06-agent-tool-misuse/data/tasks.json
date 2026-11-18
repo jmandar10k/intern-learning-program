@@ -1,0 +1,22 @@
+[
+  {
+    "id": "T1",
+    "item": "laptop stand",
+    "target": 20
+  },
+  {
+    "id": "T2",
+    "item": "wireless mouse",
+    "target": 20
+  },
+  {
+    "id": "T3",
+    "item": "usb-c cable",
+    "target": 30
+  },
+  {
+    "id": "T4",
+    "item": "hdmi adapter",
+    "target": 10
+  }
+]

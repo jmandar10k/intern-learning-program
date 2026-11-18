@@ -1,0 +1,32 @@
+{
+  "E100": {
+    "name": "Avery Park",
+    "grade": "staff",
+    "manager": "E900",
+    "active": true
+  },
+  "E101": {
+    "name": "Jordan Lee",
+    "grade": "staff",
+    "manager": "E900",
+    "active": true
+  },
+  "E102": {
+    "name": "Sam Rivera",
+    "grade": "manager",
+    "manager": "E901",
+    "active": true
+  },
+  "E103": {
+    "name": "Robin Shah",
+    "grade": "staff",
+    "manager": "E900",
+    "active": false
+  },
+  "E104": {
+    "name": "Casey Morgan",
+    "grade": "director",
+    "manager": "E902",
+    "active": true
+  }
+}
