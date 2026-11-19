@@ -1,22 +1,5 @@
 # Program calendar
 
-Shared with the intern on Day 1. Fill in real dates when the intern starts.
-
-| Field | Value |
-|---|---|
-| Intern | `<name>` |
-| Mentor | `<name>` |
-| Second reviewer (Week 4) | `<name>` |
-| Day 1 (Week 1, Monday) | `<YYYY-MM-DD>` |
-| Week 1 check-in | Day 5 (`<date>`), 30–45 min |
-| Week 2 check-in | Day 10 (`<date>`), 30–45 min |
-| Week 3 check-in | Day 15 (`<date>`), 45 min |
-| Demo with Q&A | Day 20 morning (`<date>`), 45–60 min |
-| Four-week go/no-go review | Day 20 afternoon (`<date>`), 30 min |
-
-Daily rhythm: ~6.5 focused hours. A 10-minute async stand-up note in the progress log each
-morning (yesterday, today, blockers). Mentor office hours: `<time>` daily.
-
 ## Week 1: foundations (learn, intermediate)
 
 Details: [week-1-foundations/plan.md](../week-1-foundations/plan.md)
