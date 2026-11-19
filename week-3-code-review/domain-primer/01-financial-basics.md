@@ -21,7 +21,7 @@ Market data usually arrives as **bars**, one per time interval:
 | **O**pen | First traded price in the interval |
 | **H**igh | Highest price |
 | **L**ow | Lowest price |
-| **C**lose | Last traded price |
+| **C**lose | Last traded price in the interval |
 | **V**olume | Quantity traded |
 
 **Timeframes:** 1-minute, 1-hour, daily, weekly bars. A daily close is only known **at the end of
